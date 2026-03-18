@@ -68,6 +68,8 @@ How to Use/Setup ?
        4. Deploy the WAR in Apache Tomcat manager.
        5. Go to http://[Tomcat_INSTALLED_IP]:8080/JavaVulnerableLab/install.jsp 
        6. Click the Install Button
+
+       test
        
 
 Get the VulnerableSpring Project from here:
